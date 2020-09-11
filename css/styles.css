@@ -22,10 +22,16 @@ address{
     margin:0px;
     color:#0f0f0f;
 }
-a {
+/* a {
     color: #bdd9ff;
-  }
+  } */
 
 .footer-font{
     color:#bdd9ff
+}
+
+.footer{
+    background-color: #D1C4E9;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
 }
