@@ -70,3 +70,22 @@ body{
 .carousel-item{
     height: 300px;
 }
+
+.btn-carousel{
+    background: #512DA8;
+    color: #ddd;
+}
+
+#carouselbutton{
+    right: 0px;
+    position: absolute;
+    bottom: 0px;
+    z-index: 1;
+}
+
+.carousel-caption{
+    right: 0px;
+    position: absolute;
+    z-index: 1;
+    justify-content: flex-end;
+}
